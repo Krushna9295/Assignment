@@ -1,0 +1,4 @@
+how to excute angular code 
+1. open code in editor (e.g VS CODE)
+2. open command line in that folder & run command ng serve
+3. open the browser and enter localhost:4200
